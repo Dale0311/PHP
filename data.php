@@ -11,5 +11,21 @@
     ["name" => "Large", "price" => 5],
     ["name" => "Jumbo", "price" => 10],
  ];
-
+ 
+//  mock user
+ $users = [
+   "Admin" => [
+      ["username" => "admin", "password" => "admin"],
+      ["username" => "dale", "password" => "dale123"],
+   ],
+   "Content Manager" => [
+      ["username" => "KC", "password" => "malagu123"],
+      ["username" => "Jimmy", "password" => "Jimpass"],
+      ["username" => "lossquinto", "password" => "gotlost"],
+   ],
+   "System User" => [
+      ["username" => "dpasion", "password" => "holdup0727"],
+      ["username" => "luffy", "password" => "pirateKing"],
+   ],
+ ]
 ?> 

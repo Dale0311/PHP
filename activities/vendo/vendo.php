@@ -1,5 +1,5 @@
-<?php include "./pages/header.php" ?>
-<?php include "./data.php" ?>
+<?php include "../../pages/header.php" ?>
+<?php include "../../data.php" ?>
 
 <div class="container mx-auto my-4 flex flex-col items-center">
     <!-- vending machine -->
@@ -135,4 +135,4 @@
 
 
 
-<?php include "./pages/footer.php" ?>
+<?php include "../../pages/footer.php" ?>
