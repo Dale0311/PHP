@@ -27,5 +27,16 @@
       ["username" => "dpasion", "password" => "holdup0727"],
       ["username" => "luffy", "password" => "pirateKing"],
    ],
- ]
+];
+ $users2 = [
+   ["userType" => "admin", "username" => "admin", "password" => "admin"],
+   ["userType" => "admin", "username" => "dale", "password" => "dale123"],
+   ["userType" => "Content Manager", "username" => "KC", "password" => "malagu123"],
+   ["userType" => "Content Manager", "username" => "Jimmy", "password" => "Jimpass"],
+   ["userType" => "Content Manager", "username" => "lossquinto", "password" => "gotlost"],
+   ["userType" => "System User", "username" => "dpasion", "password" => "holdup0727"],
+   ["userType" => "System User", "username" => "luffy", "password" => "pirateKing"],
+];
+
+
 ?> 
